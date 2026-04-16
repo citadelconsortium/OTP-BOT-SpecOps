@@ -1,5 +1,7 @@
 OTP BOT - SpecOps Terminal
+
 developed by: MoneyTalk LTD
+
 (All links are at the bottom of the page)
 
 🤖 What can this bot do?
